@@ -72,19 +72,10 @@ Jun 19 02:15:04 Moomty1 systemd[1067]: Failed to start app-gnome-user\x2ddirs\x2
 | euid=root | Эффективный UID | Реальные привилегии процесса (root) |
 | comm=sudo | Имя команды | Какая команда была запущена |
 | exe=/usr/bin/sudo | Путь к исполняемому файлу | Откуда запущена команда |
-![ SYSCALL](screens/12.jpg)
+
+![SYSCALL](screens/12.jpg)
 
 ### 2.4 Применённые правила
-
--w /etc/passwd -p rwa -k auth-files
--w /etc/shadow -p rwa -k auth-files
--w /etc/group -p rwa -k auth-files
--w /etc/sudoers -p rwa -k priv-files
--w /etc/sudoers.d/ -p rwa -k priv-files
--w /etc/ssh/sshd_config -p rwa -k ssh-config
--a always,exit -F arch=b64 -S open,openat -F success=0 -F key=access-denied
--a always,exit -F arch=b64 -S unlink,unlinkat -F key=file-delete
--a always,exit -F arch=b64 -S execve -F euid=0 -F auid!=0 -F auid!=-1 -F key=priv-exec
 
 ![Правила auditd](screens/13.jpg)
 
