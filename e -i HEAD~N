@@ -1,0 +1,141 @@
+[33mcommit 30fdd3209c3e23e2d835aa575a1c785cfae9334f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sun Jun 21 04:59:28 2026 +0500
+
+    pr05: GPG encryption, commit signing and secure deletion
+
+[33mcommit dacd67cee333a6a33aa035e950f82f330d129ef7[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sun Jun 21 04:58:04 2026 +0500
+
+    pr05: GPG encryption, commit signing and secure deletion
+
+[33mcommit 4b3083a66f05331a6ca132ab1a55a819bb672899[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sun Jun 21 04:38:40 2026 +0500
+
+    pr05: GPG encryption, commit signing and secure deletion
+
+[33mcommit abaf80424d45daac670a8a8fe19945eb18b9a9f4[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sun Jun 21 04:35:00 2026 +0500
+
+    pr05: GPG encryption, commit signing and secure deletion
+
+[33mcommit 65384cc71285b483213e5e6d38df0dd44d5b697f[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sun Jun 21 03:45:07 2026 +0500
+
+    pr05: add GPG key and start security report
+
+[33mcommit bdaa1600a522fc06adf5c31f9fe1a8ef58efdb1c[m
+Merge: 09844ce 7a3c343
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 21:51:26 2026 +0500
+
+    Merge branch 'main' of github.com:moomty/security-course
+
+[33mcommit 09844ce5a83872e8f5574faccdbfd677d8e0bf9e[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 21:50:52 2026 +0500
+
+    pr04: auditd and journalctl - security audit
+
+[33mcommit 7a3c34396f61bc7765b7c90a0372d07b3ec0f2b6[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sat Jun 20 21:27:11 2026 +0500
+
+    Delete pr04/screens/1
+
+[33mcommit fcbf6580264cf64a7aba1765fad63b6b2bdafc01[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 21:25:51 2026 +0500
+
+    pr04: auditd and journalctl - security audit
+
+[33mcommit 501fce1f9cb09498f713bfc5704341a4c24f3d6f[m
+Merge: 8d91d85 7cc8194
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 21:25:02 2026 +0500
+
+    Merge branch 'main' of github.com:moomty/security-course
+
+[33mcommit 8d91d8551e7f5d82616f625220e9ca445406f96c[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 21:24:27 2026 +0500
+
+    pr04: добавлен отчет по аудиту
+
+[33mcommit 7cc8194a0feee679ef17e04d5b668737419816d6[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sat Jun 20 19:34:40 2026 +0500
+
+    Update report.md
+
+[33mcommit a44946d9fa7d7ca3afb7cc2ec7bdd6be84e981a0[m
+Merge: bd842c1 85f85a2
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 19:27:29 2026 +0500
+
+    Merge branch 'main' of github.com:moomty/security-course
+
+[33mcommit bd842c1ec3487491b97a56bbfc263055b3c260f4[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 19:25:54 2026 +0500
+
+    pr03: добавлены скриншоты
+
+[33mcommit 85f85a2558ce4bdaae0bb00f1d46707577fff251[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sat Jun 20 18:57:50 2026 +0500
+
+    Update report.md
+
+[33mcommit 488e2e8206a814ad0fc353e1816cfbe97cad0a02[m
+Author: moomty <moomtys@gmail.com>
+Date:   Sat Jun 20 18:52:36 2026 +0500
+
+    Update report.md
+
+[33mcommit e4003e225bfb757d2da000851b880494047db349[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Sat Jun 20 18:14:48 2026 +0500
+
+    pr03: добавлен отчет
+
+[33mcommit 7672f14eb017d96d048fc5437131abc137e90798[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Fri Jun 19 21:54:03 2026 +0500
+
+    pr03: добавлен текст отчета
+
+[33mcommit 6bec6ba12ad225a77e9b8a71b41d4af47cf93468[m
+Merge: 9ecf05c 26775b0
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Fri Jun 19 17:48:43 2026 +0500
+
+    Merge branch 'main' of github.com:moomty/security-course
+
+[33mcommit 9ecf05c3cc142b0379dcb74e8b4c781fe84ac468[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Fri Jun 19 17:47:22 2026 +0500
+
+    pr03: linux permissions, ACL and sudo policies
+
+[33mcommit 26775b01d0783a60297e637dfc379041616a737f[m
+Author: moomty <moomtys@gmail.com>
+Date:   Wed Jun 17 15:02:14 2026 +0500
+
+    Update README.md
+
+[33mcommit 4011459417fcb9b55fa3c29fa6dbfc7e5d3ae33b[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Wed Jun 17 14:59:59 2026 +0500
+
+    pr01: добавлены скриншоты
+
+[33mcommit f859e0e3d54746fce3433ae4ae33f03655a8fa41[m
+Author: moomty <moomty@Moomty1.myguest.virtualbox.org>
+Date:   Wed Jun 17 14:45:14 2026 +0500
+
+    pr02: добавлен отчет по нормативной базе и CVE
