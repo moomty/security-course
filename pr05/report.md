@@ -59,7 +59,11 @@
 ## 4. Подпись коммитов
 
 Ссылка на коммит:
+<<<<<<< HEAD
 https://github.com/ВАШ_ЛОГИН/security-course/commit/ХЕШ_КОММИТА
+=======
+https://github.com/moomty/security-course/commit/65384cc71285b483213e5e6d38df0dd44d5b697f
+>>>>>>> 30fdd32 (pr05: GPG encryption, commit signing and secure deletion)
 
 
 Зачем проверять подпись локально если GitHub уже показывает Verified:
